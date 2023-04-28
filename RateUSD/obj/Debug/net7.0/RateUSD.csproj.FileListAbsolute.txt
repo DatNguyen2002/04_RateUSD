@@ -1,0 +1,15 @@
+D:\Unity\GitHub\04_RateUSD\RateUSD\bin\Debug\net7.0\RateUSD.exe
+D:\Unity\GitHub\04_RateUSD\RateUSD\bin\Debug\net7.0\RateUSD.deps.json
+D:\Unity\GitHub\04_RateUSD\RateUSD\bin\Debug\net7.0\RateUSD.runtimeconfig.json
+D:\Unity\GitHub\04_RateUSD\RateUSD\bin\Debug\net7.0\RateUSD.dll
+D:\Unity\GitHub\04_RateUSD\RateUSD\bin\Debug\net7.0\RateUSD.pdb
+D:\Unity\GitHub\04_RateUSD\RateUSD\obj\Debug\net7.0\RateUSD.csproj.AssemblyReference.cache
+D:\Unity\GitHub\04_RateUSD\RateUSD\obj\Debug\net7.0\RateUSD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity\GitHub\04_RateUSD\RateUSD\obj\Debug\net7.0\RateUSD.AssemblyInfoInputs.cache
+D:\Unity\GitHub\04_RateUSD\RateUSD\obj\Debug\net7.0\RateUSD.AssemblyInfo.cs
+D:\Unity\GitHub\04_RateUSD\RateUSD\obj\Debug\net7.0\RateUSD.csproj.CoreCompileInputs.cache
+D:\Unity\GitHub\04_RateUSD\RateUSD\obj\Debug\net7.0\RateUSD.dll
+D:\Unity\GitHub\04_RateUSD\RateUSD\obj\Debug\net7.0\refint\RateUSD.dll
+D:\Unity\GitHub\04_RateUSD\RateUSD\obj\Debug\net7.0\RateUSD.pdb
+D:\Unity\GitHub\04_RateUSD\RateUSD\obj\Debug\net7.0\RateUSD.genruntimeconfig.cache
+D:\Unity\GitHub\04_RateUSD\RateUSD\obj\Debug\net7.0\ref\RateUSD.dll
